@@ -109,6 +109,10 @@ h6,
     transition: .5s;
 }
 
+.navbar-brand img {
+    width: 250px;
+}
+
 .sticky-top.navbar-light .navbar-nav .nav-link {
     padding: 20px 15px;
 }
@@ -122,6 +126,9 @@ h6,
     .navbar-light .navbar-nav .nav-link,
     .sticky-top.navbar-light .navbar-nav .nav-link {
         padding: 10px 0;
+    }
+    .navbar-brand img {
+        width: 200px;
     }
 }
 
@@ -322,4 +329,15 @@ h6,
 .testimonial-carousel .owl-item img {
     width: 120px;
     height: 120px;
+}
+
+.btn-whatsapp {
+    position: fixed;
+    left: 45px;
+    bottom: 45px;
+    z-index: 99;
+}
+
+.btn-whatsapp img {
+    width: 60px;
 }

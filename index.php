@@ -87,8 +87,8 @@
     <!-- Banner Start -->
 
 
-    <!-- About Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- Nosotros Start -->
+    <div class="container-fluid py-5 wow fadeInUp" id="nosotros-odontodent" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-7">
@@ -108,7 +108,7 @@
                             <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Facilidades de Pago</h5>
                         </div>
                     </div>
-                    <a href="#" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">Escríbenos al WhatsApp</a>
+                    <a href="https://wa.link/peu0rq" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">Escríbenos al WhatsApp</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
@@ -118,10 +118,10 @@
             </div>
         </div>
     </div>
-    <!-- About End -->
+    <!-- Nosotros End -->
 
 
-    <!-- Appointment Start -->
+    <!-- Especialidades Start -->
     <div class="container-fluid bg-primary bg-appointment my-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row gx-5">
@@ -139,11 +139,11 @@
             </div>
         </div>
     </div>
-    <!-- Appointment End -->
+    <!-- Especialidades End -->
 
 
-    <!-- Service Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- Servicios Start -->
+    <div class="container-fluid py-5 wow fadeInUp" id="servicios-odontodent" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 mb-5">
                 <div class="col-lg-5 wow zoomIn" data-wow-delay="0.3s" style="min-height: 400px;">
@@ -312,10 +312,10 @@
             </div> -->
         </div>
     </div>
-    <!-- Service End -->
+    <!-- Servicios End -->
 
 
-    <!-- Offer Start -->
+    <!-- Compromiso Start -->
     <div class="container-fluid bg-offer my-5 py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row justify-content-center">
@@ -328,11 +328,11 @@
             </div>
         </div>
     </div>
-    <!-- Offer End -->
+    <!-- Compromiso End -->
 
 
-    <!-- Pricing Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- Contacto y Ubicacion Start -->
+    <div class="container-fluid py-5 wow fadeInUp" id="ubicacion-odontodent" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-5">
@@ -374,10 +374,10 @@
             </div>
         </div>
     </div>
-    <!-- Pricing End -->
+    <!-- Contacto y Ubicacion End -->
 
 
-    <!-- Testimonial Start -->
+    <!-- Testimonios Start -->
     <div class="container-fluid bg-primary bg-testimonial py-5 my-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row justify-content-center">
@@ -424,7 +424,7 @@
             </div>
         </div>
     </div>
-    <!-- Testimonial End -->
+    <!-- Testimonios End -->
 
     
 

@@ -40,7 +40,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
         <a href="index.php" class="navbar-brand p-0">
-            <img src="img/logo-odontodent.png" alt="OdontoDent" width="250px">
+            <img src="img/logo-odontodent.png" alt="OdontoDent">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -48,21 +48,12 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0">
                 <a href="index.php" class="nav-item nav-link active">Inicio</a>
-                <a href="about.html" class="nav-item nav-link">Nosotros</a>
-                <a href="service.html" class="nav-item nav-link">Servicios</a>
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                    <div class="dropdown-menu m-0">
-                        <a href="price.html" class="dropdown-item">Pricing Plan</a>
-                        <a href="team.html" class="dropdown-item">Our Dentist</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        <a href="appointment.html" class="dropdown-item">Appointment</a>
-                    </div>
-                </div>
-                <a href="contact.html" class="nav-item nav-link">Ubicación</a>
+                <a href="index.php#nosotros-odontodent" class="nav-item nav-link">Nosotros</a>
+                <a href="index.php#servicios-odontodent" class="nav-item nav-link">Servicios</a>
+                <a href="index.php#ubicacion-odontodent" class="nav-item nav-link">Ubicación</a>
             </div>
             <!-- <button type="button" class="btn text-dark" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></button> -->
-            <a href="#" class="btn btn-primary py-2 px-4 ms-3">¿Tienes alguna duda?</a>
+            <a href="https://wa.link/peu0rq" class="btn btn-primary py-2 px-4 ms-3" target="_blank">¿Tienes alguna duda?</a>
         </div>
     </nav>
     <!-- Navbar End -->

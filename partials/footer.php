@@ -24,8 +24,8 @@
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-white mb-4">Síguenos en nuestras redes</h3>
                     <div class="d-flex">
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="https://www.facebook.com/dentistassanbernardo/"><i class="fab fa-facebook-f fw-normal"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="https://www.instagram.com/odontodent.cl/"><i class="fab fa-instagram fw-normal"></i></a>
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="https://www.facebook.com/dentistassanbernardo/" target="_blank"><i class="fab fa-facebook-f fw-normal"></i></a>
+                        <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="https://www.instagram.com/odontodent.cl/" target="_blank"><i class="fab fa-instagram fw-normal"></i></a>
                     </div>
                 </div>
             </div>
@@ -49,4 +49,8 @@
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+    <a href="https://wa.link/peu0rq" target="_blank" class="btn-whatsapp">
+        <img  src="img/whatsapp.png" alt="">
+    </a>
 </footer>
