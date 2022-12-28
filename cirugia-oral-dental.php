@@ -4,7 +4,7 @@
 <head>
 
     <?php 
-    $title = "Endodoncia";
+    $title = "Cirugía Oral Dental";
     include('partials/head.php'); 
     ?>
 
@@ -33,7 +33,7 @@
         <div class="container">
             <div class="row g-5 mb-5">
                 <div class="col-lg-5 wow zoomIn" data-wow-delay="0.3s" style="min-height: 400px;">
-                    <img class="img-fluid" src="img/endodoncia-dental.png" style="object-fit: cover;">
+                    <img class="img-fluid" src="img/cirugia-oral-dental.png" style="object-fit: cover;">
                 </div>
                 <div class="col-lg-7">
                     <div class="section-title mb-5">
@@ -41,9 +41,9 @@
                         <h1 class="display-5 mb-0"><?php echo $title ?></h1>
                     </div>
                     <div class="row">
-                        <p>Endodoncia es el tratamiento de conductos radiculares, esto corresponde a toda terapia que es practicada en el complejo dentino-pulpar de un diente.</p>
-                        <p>La terapia endodóntica podría decirse que abarca desde una protección pulpar directa ó indirecta hasta la extirpación total de la pulpa dental. Se aplica en piezas dentales fracturadas, con caries profundas o lesionadas en su tejido pulpar en las que se da una sintomatología característica pulpitis.</p>
-                        <p>Esta lesión puede ser reversible o irreversible, cuando la única opción terapéutica es la extirpación total de la pulpa dental, y la obturación tridimensional del conducto dentario.</p>
+                        <p>La cirugía oral, permite ayudar al paciente en diferentes situaciones; la principal: la exodoncia o eliminación de piezas dentales. Hoy en día la cirugía de terceros molares (muelas del juicio), es un acto quirúrgico común, ya que la utilización de frenillos o aparatos de ortodoncia, casi siempre va indicado de la exodoncias de los tercero molares.</p>
+                        <p>Por otra parte, la cirugía ayuda en casos de dientes en posiciones anómalas, que deben ser retirados para no causar daño a los dientes vitales, o para permitir el movimiento con ortodoncia.</p>
+                        <p>La cirugía, también ayuda en casos que se presentan lesiones tumorales, quistes, lesiones de la mucosa, entre otras, que con la ayuda de la patología se puede establecer un protocolo para abordar la lesión de la mejor manera y permitir al paciente su recuperación.</p>
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
 <head>
 
     <?php 
-    $title = "Endodoncia";
+    $title = "Prótesis Acrílica Parcial, Metálica y Completa";
     include('partials/head.php'); 
     ?>
 
@@ -33,7 +33,7 @@
         <div class="container">
             <div class="row g-5 mb-5">
                 <div class="col-lg-5 wow zoomIn" data-wow-delay="0.3s" style="min-height: 400px;">
-                    <img class="img-fluid" src="img/endodoncia-dental.png" style="object-fit: cover;">
+                    <img class="img-fluid" src="img/protesis-acrilica.png" style="object-fit: cover;">
                 </div>
                 <div class="col-lg-7">
                     <div class="section-title mb-5">
@@ -41,9 +41,8 @@
                         <h1 class="display-5 mb-0"><?php echo $title ?></h1>
                     </div>
                     <div class="row">
-                        <p>Endodoncia es el tratamiento de conductos radiculares, esto corresponde a toda terapia que es practicada en el complejo dentino-pulpar de un diente.</p>
-                        <p>La terapia endodóntica podría decirse que abarca desde una protección pulpar directa ó indirecta hasta la extirpación total de la pulpa dental. Se aplica en piezas dentales fracturadas, con caries profundas o lesionadas en su tejido pulpar en las que se da una sintomatología característica pulpitis.</p>
-                        <p>Esta lesión puede ser reversible o irreversible, cuando la única opción terapéutica es la extirpación total de la pulpa dental, y la obturación tridimensional del conducto dentario.</p>
+                        <p>Una corona se utiliza para cubrir completamente un diente destruido. Es una cubierta protectora con forma de diente que se coloca sobre un diente. Se usa para fortalecer y proteger la estructura del diente. La mayoría de las coronas están hechas de una sustancia blanca y resistente que hace posible hacer coincidir el color de las coronas de porcelana o cerámica con el de sus dientes para que parezcan naturales. Además, se puede utilizar para mejorar el aspecto, la forma o la alineación del diente. Una corona también se puede colocar sobre un implante para lograr la forma y la estructura funcional de un diente.</p>
+                        <p>Existen distintas causas en donde son necesarias las coronas,  además existen varios tipos de materiales de las cuales estas pueden ser realizadas y también los dientes tienen que tener algunas características específicas, con el fin de poder realizar restauraciones exitosas.</p>
                     </div>
                 </div>
             </div>

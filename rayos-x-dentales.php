@@ -4,7 +4,7 @@
 <head>
 
     <?php 
-    $title = "Endodoncia";
+    $title = "Rayos X Dentales";
     include('partials/head.php'); 
     ?>
 
@@ -33,7 +33,7 @@
         <div class="container">
             <div class="row g-5 mb-5">
                 <div class="col-lg-5 wow zoomIn" data-wow-delay="0.3s" style="min-height: 400px;">
-                    <img class="img-fluid" src="img/endodoncia-dental.png" style="object-fit: cover;">
+                    <img class="img-fluid" src="img/rayosx-dental.png" style="object-fit: cover;">
                 </div>
                 <div class="col-lg-7">
                     <div class="section-title mb-5">
@@ -41,9 +41,8 @@
                         <h1 class="display-5 mb-0"><?php echo $title ?></h1>
                     </div>
                     <div class="row">
-                        <p>Endodoncia es el tratamiento de conductos radiculares, esto corresponde a toda terapia que es practicada en el complejo dentino-pulpar de un diente.</p>
-                        <p>La terapia endodóntica podría decirse que abarca desde una protección pulpar directa ó indirecta hasta la extirpación total de la pulpa dental. Se aplica en piezas dentales fracturadas, con caries profundas o lesionadas en su tejido pulpar en las que se da una sintomatología característica pulpitis.</p>
-                        <p>Esta lesión puede ser reversible o irreversible, cuando la única opción terapéutica es la extirpación total de la pulpa dental, y la obturación tridimensional del conducto dentario.</p>
+                        <p>Las radiografías dentales son un tipo de imagen de los dientes y la boca. Los rayos X son una forma de radiación electromagnética de alta energía y penetran el cuerpo para formar una imagen en una película.</p>
+                        <p>Las estructuras que son densas (como las obturaciones de plata o restauraciones metálicas) bloquearán la mayor parte de la energía lumínica de los rayos X. Esto aparecerá de color blanco en la película revelada. Las estructuras que contienen aire aparecerán de color negro en la película. Los dientes, los tejidos y los líquidos aparecerán como sombras de color gris.</p>
                     </div>
                 </div>
             </div>

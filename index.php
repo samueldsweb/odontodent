@@ -204,66 +204,80 @@
                     </a>
                 </div>
                 <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
-                    <div class="rounded-top overflow-hidden">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
-                    </div>
-                    <div class="position-relative bg-light rounded-bottom text-center p-4">
-                        <h5 class="m-0">Dental Bridges</h5>
-                    </div>
+                    <a href="incrustaciones-dentales.php">
+                        <div class="rounded-top overflow-hidden">
+                            <img class="img-fluid" src="img/incrustaciones-dentales.png" alt="">
+                        </div>
+                        <div class="position-relative bg-light rounded-bottom text-center p-4">
+                            <h5 class="m-0">Incrustaciones Dentales</h5>
+                        </div>
+                    </a>
                 </div>
             </div>
             
             <div class="row g-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
-                    <div class="rounded-top overflow-hidden">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
-                    </div>
-                    <div class="position-relative bg-light rounded-bottom text-center p-4">
-                        <h5 class="m-0">Dental Bridges</h5>
-                    </div>
+                    <a href="caries-dentales.php">
+                        <div class="rounded-top overflow-hidden">
+                            <img class="img-fluid" src="img/caries-dentales.png" alt="">
+                        </div>
+                        <div class="position-relative bg-light rounded-bottom text-center p-4">
+                            <h5 class="m-0">Caries Dental</h5>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
-                    <div class="rounded-top overflow-hidden">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
-                    </div>
-                    <div class="position-relative bg-light rounded-bottom text-center p-4">
-                        <h5 class="m-0">Dental Bridges</h5>
-                    </div>
+                    <a href="coronas-dentales.php">
+                        <div class="rounded-top overflow-hidden">
+                            <img class="img-fluid" src="img/coronas-dentales.png" alt="">
+                        </div>
+                        <div class="position-relative bg-light rounded-bottom text-center p-4">
+                            <h5 class="m-0">Coronas Dentales</h5>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
-                    <div class="rounded-top overflow-hidden">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
-                    </div>
-                    <div class="position-relative bg-light rounded-bottom text-center p-4">
-                        <h5 class="m-0">Dental Bridges</h5>
-                    </div>
+                    <a href="protesis-acrilicas-parcial-y-metalica-completa.php">
+                        <div class="rounded-top overflow-hidden">
+                            <img class="img-fluid" src="img/protesis-acrilica.png" alt="">
+                        </div>
+                        <div class="position-relative bg-light rounded-bottom text-center p-4">
+                            <h5 class="m-0">Prótesis Acrílica Parcial, Metálica y Completa</h5>
+                        </div>
+                    </a>
                 </div>
             </div>
             
             <div class="row g-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
-                    <div class="rounded-top overflow-hidden">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
-                    </div>
-                    <div class="position-relative bg-light rounded-bottom text-center p-4">
-                        <h5 class="m-0">Dental Bridges</h5>
-                    </div>
+                    <a href="protesis-invisibles.php">
+                        <div class="rounded-top overflow-hidden">
+                            <img class="img-fluid" src="img/protesis-invisible.png" alt="">
+                        </div>
+                        <div class="position-relative bg-light rounded-bottom text-center p-4">
+                            <h5 class="m-0">Prótesis Invisible</h5>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
-                    <div class="rounded-top overflow-hidden">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
-                    </div>
-                    <div class="position-relative bg-light rounded-bottom text-center p-4">
-                        <h5 class="m-0">Dental Bridges</h5>
-                    </div>
+                    <a href="cirugia-oral-dental.php">
+                        <div class="rounded-top overflow-hidden">
+                            <img class="img-fluid" src="img/cirugia-oral-dental.png" alt="">
+                        </div>
+                        <div class="position-relative bg-light rounded-bottom text-center p-4">
+                            <h5 class="m-0">Cirugía Oral Dental</h5>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
-                    <div class="rounded-top overflow-hidden">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
-                    </div>
-                    <div class="position-relative bg-light rounded-bottom text-center p-4">
-                        <h5 class="m-0">Dental Bridges</h5>
-                    </div>
+                    <a href="rayos-x-dentales.php">
+                        <div class="rounded-top overflow-hidden">
+                            <img class="img-fluid" src="img/rayosx-dental.png" alt="">
+                        </div>
+                        <div class="position-relative bg-light rounded-bottom text-center p-4">
+                            <h5 class="m-0">Rayos X Dentales</h5>
+                        </div>
+                    </a>
                 </div>
             </div>
             
@@ -307,10 +321,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-7 wow zoomIn" data-wow-delay="0.6s">
                     <div class="offer-text text-center rounded p-5">
-                        <h1 class="display-5 text-white">Save 30% On Your First Dental Checkup</h1>
-                        <p class="text-white mb-4">Eirmod sed tempor lorem ut dolores sit kasd ipsum. Dolor ea et dolore et at sea ea at dolor justo ipsum duo rebum sea. Eos vero eos vero ea et dolore eirmod diam duo lorem magna sit dolore sed et.</p>
-                        <a href="appointment.html" class="btn btn-dark py-3 px-5 me-3">Appointment</a>
-                        <a href="" class="btn btn-light py-3 px-5">Read More</a>
+                        <h1 class="display-5 text-white">Nuestro Compromiso </h1>
+                        <p class="text-white mb-4">Es entregar un servicios de calidad a precios económicos y accesibles a el publico, con tratamientos garantizados y profesionales de buen nivel. buena calidad y facilidades de pago.</p>
                     </div>
                 </div>
             </div>
@@ -324,65 +336,40 @@
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-5">
-                    <div class="section-title mb-4">
-                        <h5 class="position-relative d-inline-block text-primary text-uppercase">Pricing Plan</h5>
-                        <h1 class="display-5 mb-0">We Offer Fair Prices for Dental Treatment</h1>
+                <div class="bg-light rounded h-100 p-5">
+                        <div class="section-title">
+                            <h5 class="position-relative d-inline-block text-primary text-uppercase">¿Tienes algunda duda?</h5>
+                            <h2 class="display-6 mb-4">Contacta con nosotros</h2>
+                        </div>
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-geo-alt fs-1 text-primary me-3"></i>
+                            <div class="text-start">
+                                <h5 class="mb-0">Nuestra Sece</h5>
+                                <span>Barros Arana 587, San Bernardo</span>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-envelope-open fs-1 text-primary me-3"></i>
+                            <div class="text-start">
+                                <h5 class="mb-0">Correo</h5>
+                                <span>cdentalodontodent@gmail.com</span>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
+                            <div class="text-start">
+                                <h5 class="mb-0">Teléfono</h5>
+                                <span>+56 2 2879 3048</span>
+                            </div>
+                        </div>
                     </div>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo eirmod magna dolore erat amet</p>
-                    <h5 class="text-uppercase text-primary wow fadeInUp" data-wow-delay="0.3s">Call for Appointment</h5>
-                    <h1 class="wow fadeInUp" data-wow-delay="0.6s">+012 345 6789</h1>
                 </div>
                 <div class="col-lg-7">
-                    <div class="owl-carousel price-carousel wow zoomIn" data-wow-delay="0.9s">
-                        <div class="price-item pb-4">
-                            <div class="position-relative">
-                                <img class="img-fluid rounded-top" src="img/price-1.jpg" alt="">
-                                <div class="d-flex align-items-center justify-content-center bg-light rounded pt-2 px-3 position-absolute top-100 start-50 translate-middle" style="z-index: 2;">
-                                    <h2 class="text-primary m-0">$35</h2>
-                                </div>
-                            </div>
-                            <div class="position-relative text-center bg-light border-bottom border-primary py-5 p-4">
-                                <h4>Teeth Whitening</h4>
-                                <hr class="text-primary w-50 mx-auto mt-0">
-                                <div class="d-flex justify-content-between mb-3"><span>Modern Equipment</span><i class="fa fa-check text-primary pt-1"></i></div>
-                                <div class="d-flex justify-content-between mb-3"><span>Professional Dentist</span><i class="fa fa-check text-primary pt-1"></i></div>
-                                <div class="d-flex justify-content-between mb-2"><span>24/7 Call Support</span><i class="fa fa-check text-primary pt-1"></i></div>
-                                <a href="appointment.html" class="btn btn-primary py-2 px-4 position-absolute top-100 start-50 translate-middle">Appointment</a>
-                            </div>
-                        </div>
-                        <div class="price-item pb-4">
-                            <div class="position-relative">
-                                <img class="img-fluid rounded-top" src="img/price-2.jpg" alt="">
-                                <div class="d-flex align-items-center justify-content-center bg-light rounded pt-2 px-3 position-absolute top-100 start-50 translate-middle" style="z-index: 2;">
-                                    <h2 class="text-primary m-0">$49</h2>
-                                </div>
-                            </div>
-                            <div class="position-relative text-center bg-light border-bottom border-primary py-5 p-4">
-                                <h4>Dental Implant</h4>
-                                <hr class="text-primary w-50 mx-auto mt-0">
-                                <div class="d-flex justify-content-between mb-3"><span>Modern Equipment</span><i class="fa fa-check text-primary pt-1"></i></div>
-                                <div class="d-flex justify-content-between mb-3"><span>Professional Dentist</span><i class="fa fa-check text-primary pt-1"></i></div>
-                                <div class="d-flex justify-content-between mb-2"><span>24/7 Call Support</span><i class="fa fa-check text-primary pt-1"></i></div>
-                                <a href="appointment.html" class="btn btn-primary py-2 px-4 position-absolute top-100 start-50 translate-middle">Appointment</a>
-                            </div>
-                        </div>
-                        <div class="price-item pb-4">
-                            <div class="position-relative">
-                                <img class="img-fluid rounded-top" src="img/price-3.jpg" alt="">
-                                <div class="d-flex align-items-center justify-content-center bg-light rounded pt-2 px-3 position-absolute top-100 start-50 translate-middle" style="z-index: 2;">
-                                    <h2 class="text-primary m-0">$99</h2>
-                                </div>
-                            </div>
-                            <div class="position-relative text-center bg-light border-bottom border-primary py-5 p-4">
-                                <h4>Root Canal</h4>
-                                <hr class="text-primary w-50 mx-auto mt-0">
-                                <div class="d-flex justify-content-between mb-3"><span>Modern Equipment</span><i class="fa fa-check text-primary pt-1"></i></div>
-                                <div class="d-flex justify-content-between mb-3"><span>Professional Dentist</span><i class="fa fa-check text-primary pt-1"></i></div>
-                                <div class="d-flex justify-content-between mb-2"><span>24/7 Call Support</span><i class="fa fa-check text-primary pt-1"></i></div>
-                                <a href="appointment.html" class="btn btn-primary py-2 px-4 position-absolute top-100 start-50 translate-middle">Appointment</a>
-                            </div>
-                        </div>
-                    </div>
+                    <iframe class="position-relative rounded w-100 h-100"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.3863027143652!2d-70.69904!3d-33.595279999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662d9449fc89a81%3A0xc493b74715855d7e!2sBarros%20Arana%20587%2C%208054298%20San%20Bernardo%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses!2scl!4v1672197319107!5m2!1ses!2scl"
+                            frameborder="0" style="min-height: 400px; border:0;" allowfullscreen="" aria-hidden="false"
+                            tabindex="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -397,16 +384,40 @@
                 <div class="col-lg-7">
                     <div class="owl-carousel testimonial-carousel rounded p-5 wow zoomIn" data-wow-delay="0.6s">
                         <div class="testimonial-item text-center text-white">
-                            <img class="img-fluid mx-auto rounded mb-4" src="img/testimonial-1.jpg" alt="">
-                            <p class="fs-5">Dolores sed duo clita justo dolor et stet lorem kasd dolore lorem ipsum. At lorem lorem magna ut et, nonumy labore diam erat. Erat dolor rebum sit ipsum.</p>
+                            <img class="img-fluid mx-auto rounded mb-4" src="img/avatar-4.png" alt="">
+                            <p class="fs-5">excelente profesional ,muy económico y muy minucioso con su trabajo , 🙌🙌🙌🙌🙌 ,excelente persona y muy perfeccionista en lo que hace</p>
                             <hr class="mx-auto w-25">
-                            <h4 class="text-white mb-0">Client Name</h4>
+                            <h4 class="text-white mb-0">Lisetita Arzola Jara</h4>
                         </div>
                         <div class="testimonial-item text-center text-white">
-                            <img class="img-fluid mx-auto rounded mb-4" src="img/testimonial-2.jpg" alt="">
-                            <p class="fs-5">Dolores sed duo clita justo dolor et stet lorem kasd dolore lorem ipsum. At lorem lorem magna ut et, nonumy labore diam erat. Erat dolor rebum sit ipsum.</p>
+                            <img class="img-fluid mx-auto rounded mb-4" src="img/avatar-5.png" alt="">
+                            <p class="fs-5">Clinica muy muy buena EL DOCTOR te explica todo perfecto, el cepillado el tipo de pasta cepillo enjuague etc. Recomendada a todos mis amigos</p>
                             <hr class="mx-auto w-25">
-                            <h4 class="text-white mb-0">Client Name</h4>
+                            <h4 class="text-white mb-0">Carlos Alberty Rojas</h4>
+                        </div>
+                        <div class="testimonial-item text-center text-white">
+                            <img class="img-fluid mx-auto rounded mb-4" src="img/avatar-6.png" alt="">
+                            <p class="fs-5">El Dr. Gustavo es un EXCELENTE PROFESIONALl, explica todo claramente, minucioso en su trabajo, sumado a  PRECIOS ECONÓMICOS  al alcance de todos.  Desde la otra consulta en Barros Arana que nos atendemos con él.</p>
+                            <hr class="mx-auto w-25">
+                            <h4 class="text-white mb-0">Nubia Olguìn Cantillana</h4>
+                        </div>
+                        <div class="testimonial-item text-center text-white">
+                            <img class="img-fluid mx-auto rounded mb-4" src="img/avatar-1.png" alt="">
+                            <p class="fs-5">Muy buen ambiente y amabilidad. La gente es sumamente agradable. Nunca he tenido ningún tipo de problema.</p>
+                            <hr class="mx-auto w-25">
+                            <h4 class="text-white mb-0">Viciente Rodriguez</h4>
+                        </div>
+                        <div class="testimonial-item text-center text-white">
+                            <img class="img-fluid mx-auto rounded mb-4" src="img/avatar-2.png" alt="">
+                            <p class="fs-5">Excelente Servicio 100% recomendado</p>
+                            <hr class="mx-auto w-25">
+                            <h4 class="text-white mb-0">Rafael Maya</h4>
+                        </div>
+                        <div class="testimonial-item text-center text-white">
+                            <img class="img-fluid mx-auto rounded mb-4" src="img/avatar-3.png" alt="">
+                            <p class="fs-5">Muy buena experiencia. Desde hace un año que me pusieron los implantes, a la hora de comer, es como si fuesen mios.</p>
+                            <hr class="mx-auto w-25">
+                            <h4 class="text-white mb-0">Carmen Crespo</h4>
                         </div>
                     </div>
                 </div>
@@ -415,123 +426,6 @@
     </div>
     <!-- Testimonial End -->
 
-
-    <!-- Team Start -->
-    <div class="container-fluid py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.1s">
-                    <div class="section-title bg-light rounded h-100 p-5">
-                        <h5 class="position-relative d-inline-block text-primary text-uppercase">Our Dentist</h5>
-                        <h1 class="display-6 mb-4">Meet Our Certified & Experienced Dentist</h1>
-                        <a href="appointment.html" class="btn btn-primary py-3 px-5">Appointment</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
-                    <div class="team-item">
-                        <div class="position-relative rounded-top" style="z-index: 1;">
-                            <img class="img-fluid rounded-top w-100" src="img/team-1.jpg" alt="">
-                            <div class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-instagram fw-normal"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-text position-relative bg-light text-center rounded-bottom p-4 pt-5">
-                            <h4 class="mb-2">Dr. John Doe</h4>
-                            <p class="text-primary mb-0">Implant Surgeon</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
-                    <div class="team-item">
-                        <div class="position-relative rounded-top" style="z-index: 1;">
-                            <img class="img-fluid rounded-top w-100" src="img/team-2.jpg" alt="">
-                            <div class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-instagram fw-normal"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-text position-relative bg-light text-center rounded-bottom p-4 pt-5">
-                            <h4 class="mb-2">Dr. John Doe</h4>
-                            <p class="text-primary mb-0">Implant Surgeon</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.1s">
-                    <div class="team-item">
-                        <div class="position-relative rounded-top" style="z-index: 1;">
-                            <img class="img-fluid rounded-top w-100" src="img/team-3.jpg" alt="">
-                            <div class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-instagram fw-normal"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-text position-relative bg-light text-center rounded-bottom p-4 pt-5">
-                            <h4 class="mb-2">Dr. John Doe</h4>
-                            <p class="text-primary mb-0">Implant Surgeon</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
-                    <div class="team-item">
-                        <div class="position-relative rounded-top" style="z-index: 1;">
-                            <img class="img-fluid rounded-top w-100" src="img/team-4.jpg" alt="">
-                            <div class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-instagram fw-normal"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-text position-relative bg-light text-center rounded-bottom p-4 pt-5">
-                            <h4 class="mb-2">Dr. John Doe</h4>
-                            <p class="text-primary mb-0">Implant Surgeon</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
-                    <div class="team-item">
-                        <div class="position-relative rounded-top" style="z-index: 1;">
-                            <img class="img-fluid rounded-top w-100" src="img/team-5.jpg" alt="">
-                            <div class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-instagram fw-normal"></i></a>
-                            </div>
-                        </div>
-                        <div class="team-text position-relative bg-light text-center rounded-bottom p-4 pt-5">
-                            <h4 class="mb-2">Dr. John Doe</h4>
-                            <p class="text-primary mb-0">Implant Surgeon</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-
-
-    <!-- Newsletter Start -->
-    <div class="container-fluid position-relative pt-5 wow fadeInUp" data-wow-delay="0.1s" style="z-index: 1;">
-        <div class="container">
-            <div class="bg-primary p-5">
-                <form class="mx-auto" style="max-width: 600px;">
-                    <div class="input-group">
-                        <input type="text" class="form-control border-white p-3" placeholder="Your Email">
-                        <button class="btn btn-dark px-4">Sign Up</button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-    <!-- Newsletter End -->
     
 
     <?php include('partials/footer.php'); ?>

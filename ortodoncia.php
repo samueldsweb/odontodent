@@ -4,7 +4,7 @@
 <head>
 
     <?php 
-    $title = "Endodoncia";
+    $title = "Ortodoncia";
     include('partials/head.php'); 
     ?>
 
@@ -33,7 +33,7 @@
         <div class="container">
             <div class="row g-5 mb-5">
                 <div class="col-lg-5 wow zoomIn" data-wow-delay="0.3s" style="min-height: 400px;">
-                    <img class="img-fluid" src="img/endodoncia-dental.png" style="object-fit: cover;">
+                    <img class="img-fluid" src="img/ortodoncia-dental.png" style="object-fit: cover;">
                 </div>
                 <div class="col-lg-7">
                     <div class="section-title mb-5">
@@ -41,9 +41,8 @@
                         <h1 class="display-5 mb-0"><?php echo $title ?></h1>
                     </div>
                     <div class="row">
-                        <p>Endodoncia es el tratamiento de conductos radiculares, esto corresponde a toda terapia que es practicada en el complejo dentino-pulpar de un diente.</p>
-                        <p>La terapia endodóntica podría decirse que abarca desde una protección pulpar directa ó indirecta hasta la extirpación total de la pulpa dental. Se aplica en piezas dentales fracturadas, con caries profundas o lesionadas en su tejido pulpar en las que se da una sintomatología característica pulpitis.</p>
-                        <p>Esta lesión puede ser reversible o irreversible, cuando la única opción terapéutica es la extirpación total de la pulpa dental, y la obturación tridimensional del conducto dentario.</p>
+                        <p>Tratamiento que consiste en corregir los defectos y las irregularidades de posición de los dientes, basa su tratamiento en la colocación de los dientes de manera correcta, las alteraciones de la boca y mandíbula así como, las formas de las arcadas dentarias para la perfecta masticación y que de este modo, se produzca un orden entre la boca y la cara, tanto para el bienestar de salud de la persona como para un fin puramente estético y funcional.</p>
+                        <p>Es un tratamiento lento que debe acudir una vez al mes ( si no sientes ninguna anomalías antes), para el cuidado de la boca (limpieza, pasta dental, cepillado correcto y limpieza de las encías) ya que todos estos cuidados previenen otras enfermedades derivadas a mal uso del cuidado de la boca y de sus piezas dentarias.</p>
                     </div>
                 </div>
             </div>

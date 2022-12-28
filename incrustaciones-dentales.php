@@ -4,7 +4,7 @@
 <head>
 
     <?php 
-    $title = "Endodoncia";
+    $title = "Incrustaciones Dentales";
     include('partials/head.php'); 
     ?>
 
@@ -33,7 +33,7 @@
         <div class="container">
             <div class="row g-5 mb-5">
                 <div class="col-lg-5 wow zoomIn" data-wow-delay="0.3s" style="min-height: 400px;">
-                    <img class="img-fluid" src="img/endodoncia-dental.png" style="object-fit: cover;">
+                    <img class="img-fluid" src="img/incrustaciones-dentales.png" style="object-fit: cover;">
                 </div>
                 <div class="col-lg-7">
                     <div class="section-title mb-5">
@@ -41,9 +41,10 @@
                         <h1 class="display-5 mb-0"><?php echo $title ?></h1>
                     </div>
                     <div class="row">
-                        <p>Endodoncia es el tratamiento de conductos radiculares, esto corresponde a toda terapia que es practicada en el complejo dentino-pulpar de un diente.</p>
-                        <p>La terapia endodóntica podría decirse que abarca desde una protección pulpar directa ó indirecta hasta la extirpación total de la pulpa dental. Se aplica en piezas dentales fracturadas, con caries profundas o lesionadas en su tejido pulpar en las que se da una sintomatología característica pulpitis.</p>
-                        <p>Esta lesión puede ser reversible o irreversible, cuando la única opción terapéutica es la extirpación total de la pulpa dental, y la obturación tridimensional del conducto dentario.</p>
+                        <p>Las incrustaciones dentales son una restauración dental conservadora que se realiza cuando el paciente requiere  máxima estética o cuando hay un daño extenso en la estructura dental y como alternativa a la corona dental.</p>
+                        <p>Una incrustación dental  es un empaste pero realizado en el laboratorio. La incrustación dental encaja en el diente como una pieza de un puzle reproduciendo con precisión la anatomía perdida del diente.</p>
+                        <p>Por las características estéticas y propiedades mecánicas las incrustaciones dentales son el tratamiento de elección en ciertas situaciones.</p>
+                        <p>Gracias a la biocompatibilidad, propiedades ópticas, estabilidad de color y buena resistencia mecánica, las incrustaciones dentales son un avance en odontología estética conservadora reemplazando medianas a grandes reconstrucciones e incluso coronas dentales cuando el diente tiene suficiente estructura dental remanente, evitando eliminar estructura dental innecesaria como en su caso requieren las coronas dentales.</p>
                     </div>
                 </div>
             </div>
