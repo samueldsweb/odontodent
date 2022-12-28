@@ -108,7 +108,7 @@
                             <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Facilidades de Pago</h5>
                         </div>
                     </div>
-                    <a href="https://wa.link/peu0rq" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">Escríbenos al WhatsApp</a>
+                    <a href="https://wa.link/peu0rq" target="_blank" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">Escríbenos al WhatsApp</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
