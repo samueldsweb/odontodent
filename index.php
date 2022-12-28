@@ -344,7 +344,7 @@
                         <div class="d-flex align-items-center mb-2">
                             <i class="bi bi-geo-alt fs-1 text-primary me-3"></i>
                             <div class="text-start">
-                                <h5 class="mb-0">Nuestra Sece</h5>
+                                <h5 class="mb-0">Nuestra Sede</h5>
                                 <span>Barros Arana 587, San Bernardo</span>
                             </div>
                         </div>
