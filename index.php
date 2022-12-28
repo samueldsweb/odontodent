@@ -78,7 +78,7 @@
                     <div class="bg-secondary d-flex flex-column p-5" style="height: 300px;">
                         <h3 class="text-white mb-3">Profesionales Especializados</h3>
                         <p class="text-white">Nuestros Profesionales son Especializados en cada área de nuestros Servicios.</p>
-                        <h2 class="text-white mb-0">+56 2 2879 3048</h2>
+                        <h2 class="text-white mb-0">+56 2 2879 3048 <br> +56 9 8302 8442</h2>
                     </div>
                 </div>
             </div>
@@ -101,14 +101,13 @@
                     <div class="row g-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.3s">
                             <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Amplia Experiencia</h5>
-                            <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Consultas sin Espera</h5>
+                            <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Infraestructura cómoda y acogedora</h5>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.6s">
                             <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Excelencia en Atención</h5>
                             <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Facilidades de Pago</h5>
                         </div>
                     </div>
-                    <a href="https://wa.link/peu0rq" target="_blank" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">Escríbenos al WhatsApp</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
@@ -120,6 +119,23 @@
     </div>
     <!-- Nosotros End -->
 
+    <!-- Urgencia Dental -->
+    <div class="container py-5">
+        <div class="row g-5">
+            <div class="col-lg-7 wow slideInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: slideInUp;">
+                <img class="img-fluid" src="img/foto-clinica.png" alt="">
+            </div>
+            <div class="col-lg-5 wow slideInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
+                <div class="section-title bg-light rounded h-100 p-5">
+                    <h5 class="position-relative d-inline-block text-primary text-uppercase">Programa tus horas</h5>
+                    <h1 class="display-6 mb-3">Urgencias Odontológicas</h1>
+                    <a href="https://wa.link/peu0rq" target="_blank" class="btn btn-primary py-3 px-5 mt-4 mb-4 wow zoomIn" data-wow-delay="0.6s">Escríbenos al WhatsApp</a>
+                    <h4 class="position-relative d-inline-block text-primary text-uppercase">También puedes llamarnos <br><i class="fa fa-phone-alt me-2"></i> +56 2 2879 3048</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- URgencia Dental End -->
 
     <!-- Especialidades Start -->
     <div class="container-fluid bg-primary bg-appointment my-5 wow fadeInUp" data-wow-delay="0.1s">
@@ -128,7 +144,8 @@
                 <div class="col-lg-6 py-5">
                     <div class="py-5">
                         <h1 class="display-5 text-white mb-4">Especialidades Odontodent</h1>
-                        <p class="text-white mb-0">En nuestra Clínica Odontodent contamos con distintos servicios en especialidades como Ortodoncia, Endodoncia, extracciones, Cirugía Oral, Periodoncia, Odontopediatría, entre otras. Puede ingresar a nuestros formulario en donde podrá solicitar su hora e indicarnos como ayudarle.</p>
+                        <p class="text-white">En nuestra Clínica Odontodent contamos con distintos servicios en especialidades como Ortodoncia, Endodoncia, extracciones, Cirugía Oral, Periodoncia, entre otras. Agenda una hora para presupuesto y valoración sin costo.</p>
+                        <a class="btn btn-light px-5 py-2" href="tel:56228793048"><i class="bi bi-telephone-fill"></i> Agenda una hora </a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -322,7 +339,7 @@
                 <div class="col-lg-7 wow zoomIn" data-wow-delay="0.6s">
                     <div class="offer-text text-center rounded p-5">
                         <h1 class="display-5 text-white">Nuestro Compromiso </h1>
-                        <p class="text-white mb-4">Es entregar un servicios de calidad a precios económicos y accesibles a el publico, con tratamientos garantizados y profesionales de buen nivel. buena calidad y facilidades de pago.</p>
+                        <p class="text-white mb-4">Es entregar un servicios de calidad a precios económicos y accesibles a el publico, con tratamientos garantizados y profesionales de buen nivel. <br> Buena calidad y facilidades de pago.</p>
                     </div>
                 </div>
             </div>
@@ -356,10 +373,17 @@
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
+                            <i class="bi bi-telephone fs-1 text-primary me-3"></i>
                             <div class="text-start">
                                 <h5 class="mb-0">Teléfono</h5>
                                 <span>+56 2 2879 3048</span>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
+                            <div class="text-start">
+                                <h5 class="mb-0">Celular</h5>
+                                <span>+56 9 8302 84428</span>
                             </div>
                         </div>
                     </div>

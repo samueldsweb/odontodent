@@ -13,8 +13,8 @@
                     <h3 class="text-white mb-4">Contácta con nosotros</h3>
                     <p class="mb-2"><i class="bi bi-geo-alt text-primary me-2"></i>Barros Arana 587, <br> San Bernardo, Santiago</p>
                     <p class="mb-2"><i class="bi bi-envelope-open text-primary me-2"></i>cdentalodontodent@gmail.com</p>
-                    <p class="mb-0"><i class="bi bi-telephone text-primary me-2"></i>+56 9 8302 8442</p>
                     <p class="mb-0"><i class="bi bi-telephone text-primary me-2"></i>+56 2 2879 3048</p>
+                    <p class="mb-0"><i class="bi bi-phone-vibrate text-primary me-2"></i>+56 9 8302 8442</p>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-white mb-4">Nuestra Ubicación</h3>
