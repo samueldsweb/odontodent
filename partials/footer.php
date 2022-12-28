@@ -6,7 +6,7 @@
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-white mb-4">Clínica Dental</h3>
                     <div class="d-flex flex-column justify-content-start">
-                        <p class="text-light mb-2"><i class="bi bi-arrow-right text-primary me-2"></i>En Odontodent contamos con servicios de: Urgencia dental, Brackets, Implantes, Restauraciones, Estética, Coronas, Prótesis, Endodoncia, Prótesis Invisible, OdontoPediatría, Incrustaciones Estéticas, Cirugía Oral, Rayos X.</p>
+                        <p class="text-light mb-2"><i class="bi bi-arrow-right text-primary me-2"></i>En Odontodent contamos con servicios de: Urgencia dental, Brackets, Restauraciones, Estética, Coronas, Prótesis, Endodoncia, Prótesis Invisible, Incrustaciones Estéticas, Cirugía Oral, Rayos X.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">

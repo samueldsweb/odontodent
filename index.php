@@ -97,7 +97,7 @@
                         <h1 class="display-5 mb-0">Por una Sonrisa Feliz</h1>
                     </div>
                     <h4 class="text-body fst-italic mb-4">Odontodent es una clínica dental Ubicada en San Bernardo</h4>
-                    <p class="mb-4">Nuestro Compromiso es entregar un servicios de calidad a precios económicos y accesibles a el publico , con tratamientos garantizados y profesionales de buen nivel. buena calidad y facilidades de pago.</p>
+                    <p class="mb-4">Nuestro Compromiso es entregar un servicios de calidad a precios económicos y accesibles a el publico, con tratamientos garantizados y profesionales de buen nivel. Buena calidad y facilidades de pago.</p>
                     <div class="row g-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.3s">
                             <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Amplia Experiencia</h5>
