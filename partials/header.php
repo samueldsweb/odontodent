@@ -54,7 +54,7 @@
                 <a href="index.php#ubicacion-odontodent" class="nav-item nav-link">Ubicación</a>
             </div>
             <!-- <button type="button" class="btn text-dark" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></button> -->
-            <a href="https://wa.link/peu0rq" class="btn btn-primary py-2 px-4 ms-3" target="_blank">¿Tienes alguna duda?</a>
+            <a href="tel:56983028442" class="btn btn-primary py-2 px-4 ms-3" target="_blank">Contactanos</a>
         </div>
     </nav>
     <!-- Navbar End -->

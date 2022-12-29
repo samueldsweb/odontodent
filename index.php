@@ -129,8 +129,8 @@
                 <div class="section-title bg-light rounded h-100 p-5">
                     <h5 class="position-relative d-inline-block text-primary text-uppercase">Programa tus horas</h5>
                     <h1 class="display-6 mb-3">Urgencias Odontológicas</h1>
-                    <a href="https://wa.link/peu0rq" target="_blank" class="btn btn-primary py-3 px-5 mt-4 mb-4 wow zoomIn" data-wow-delay="0.6s">Escríbenos al WhatsApp</a>
-                    <h4 class="position-relative d-inline-block text-primary text-uppercase">También puedes llamarnos <br><i class="fa fa-phone-alt me-2"></i> +56 2 2879 3048</h4>
+                    <a href="tel:56983028442" class="btn btn-primary py-3 px-5 mt-4 mb-4 wow zoomIn" data-wow-delay="0.6s">Llama directo a nuestro celular</a>
+                    <h4 class="position-relative d-inline-block text-primary text-uppercase">También puedes llamar al <br><i class="fa fa-phone-alt me-2"></i> +56 2 2879 3048</h4>
                 </div>
             </div>
         </div>
