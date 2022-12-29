@@ -50,7 +50,7 @@
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
 
-    <a href="tel:56983028442" class="btn-whatsapp">
+    <a href="tel:983028442" class="btn-whatsapp">
         <img  src="img/llamar-ahora.png" alt="">
     </a>
 </footer>

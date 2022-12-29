@@ -28,8 +28,8 @@
                         <a class="text-white m-0" href="mailto:cdentalodontodent@gmail.com"><i class="fa fa-envelope-open me-2"></i>cdentalodontodent@gmail.com</a>
                     </div>
                     <div class="py-2">
-                        <a class="text-white m-0" href="tel:56228793048"><i class="fa fa-phone-alt me-2"></i>+56 2 2879 3048 |</a>
-                        <a class="text-white m-0" href="tel:56983028442"><i class="bi bi-phone-vibrate me-2"></i>+56 9 8302 8442</a>
+                        <a class="text-white m-0" href="tel:228793048"><i class="fa fa-phone-alt me-2"></i>+56 2 2879 3048 |</a>
+                        <a class="text-white m-0" href="tel:983028442"><i class="bi bi-phone-vibrate me-2"></i>+56 9 8302 8442</a>
                     </div>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                 <a href="index.php#ubicacion-odontodent" class="nav-item nav-link">Ubicación</a>
             </div>
             <!-- <button type="button" class="btn text-dark" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></button> -->
-            <a href="tel:56983028442" class="btn btn-primary py-2 px-4 ms-3" target="_blank">Contactanos</a>
+            <a href="tel:983028442" class="btn btn-primary py-2 px-4 ms-3" target="_blank">Contactanos</a>
         </div>
     </nav>
     <!-- Navbar End -->
