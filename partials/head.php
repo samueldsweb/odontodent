@@ -50,4 +50,5 @@
   gtag('js', new Date());
 
   gtag('config', 'G-T0FBFGLP03');
+  gtag('config', 'AW-955961813');
 </script>
