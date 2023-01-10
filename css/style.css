@@ -153,8 +153,13 @@ h6,
     }
 
     .btn-whatsapp {
+        display: none;
         left: 0px!important;
         bottom: 20px!important
+    }
+
+    .btn-light.cta {
+        width: 100%;
     }
 }
 
@@ -172,7 +177,7 @@ h6,
 @media (min-width: 991.98px) {
     .banner {
         position: relative;
-        margin-top: -90px;
+        margin-top: -150px;
         z-index: 1;
     }
 }
@@ -337,6 +342,7 @@ h6,
 }
 
 .btn-whatsapp {
+    display: none;
     position: fixed;
     left: 45px;
     bottom: 30px;
@@ -347,3 +353,8 @@ h6,
     width: 250px;
 }
 
+.btn-light:hover {
+    color: #fff;
+    background-color: #38b5e1!important;
+    border-color: #1facde!important;
+}

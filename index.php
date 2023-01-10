@@ -15,15 +15,15 @@
     <?php include('partials/header.php'); ?>
 
     <!-- Carousel Start -->
-    <div class="container-fluid p-0">
+    <div class="container-fluid p-0 mb-3 mb-md-0">
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img class="w-100" src="img/carousel-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creamos sonrisas vibrantes para un</h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Estilo de vida saludable</h1>
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Barros Arana 587, San Bernardo</h5>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Clinica de Estética Dental - Odontodent</h1>
                             <!-- <a href="appointment.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Appointment</a>
                             <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a> -->
                         </div>
@@ -33,8 +33,8 @@
                     <img class="w-100" src="img/carousel-2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Extracciones Dentales</h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Procedimientos sin dolor con tecnología de vanguarda</h1>
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Procedimientos sin dolor</h5>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Urgencias con Horas Programadas</h1>
                             <!-- <a href="appointment.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Appointment</a>
                             <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a> -->
                         </div>
@@ -59,6 +59,17 @@
     <!-- Banner Start -->
     <div class="container-fluid banner mb-5">
         <div class="container">
+            <div class="row gx-0">
+                <div class="col-md-4 text-center mb-2 mb-md-5">
+                    <a href="https://goo.gl/maps/mcmTFqzfRDQpKQk47" target="_blank" class="btn btn-light cta py-3 px-5">¿Como Llegar?</a>
+                </div>
+                <div class="col-md-4 text-center mb-2 mb-md-5">
+                    <a href="tel:983028442" class="btn btn-light cta py-3 px-5">Llamar al Celular</a>
+                </div>
+                <div class="col-md-4 text-center mb-2 mb-md-5">
+                    <a href="tel:228793048" class="btn btn-light cta py-3 px-5">Llamar al Teléfono Fijo</a>
+                </div>
+            </div>
             <div class="row gx-0">
                 <div class="col-lg-4 wow zoomIn" data-wow-delay="0.1s">
                     <div class="bg-primary d-flex flex-column p-5" style="height: 300px;">
