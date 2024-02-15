@@ -69,5 +69,4 @@
   }
   gtag('js', new Date());
   gtag('config', 'AW-955961813');
-  gtag('config', 'G-T0FBFGLP03');
 </script>
