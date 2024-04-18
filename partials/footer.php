@@ -1,3 +1,7 @@
+<!-- Icono de whatsapp -->
+<a href="https//wa.me/56983028442" target="_blank">
+    <img class="btn-whatsapp animate__animated animate__delay-3s animate__pulse animate__repeat-3" src="img/whatsapp.svg" alt="Escríbenos al whatsapp">
+</a>
 <footer>
         <!-- Footer Start -->
         <div class="container-fluid bg-dark text-light py-5 wow fadeInUp" data-wow-delay="0.3s" style="margin-top: -75px;">

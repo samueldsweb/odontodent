@@ -358,3 +358,11 @@ h6,
     background-color: #38b5e1!important;
     border-color: #1facde!important;
 }
+
+.btn-whatsapp {
+    position: fixed;
+    width: 50px;
+    right: 60px;
+    bottom: 90px;
+    z-index: 2147483647;
+}
