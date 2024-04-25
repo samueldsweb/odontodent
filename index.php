@@ -394,7 +394,7 @@
                             <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                             <div class="text-start">
                                 <h5 class="mb-0">Celular</h5>
-                                <span>+56 9 8302 84428</span>
+                                <span>+56 9 8302 8442</span>
                             </div>
                         </div>
                     </div>

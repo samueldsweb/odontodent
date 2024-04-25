@@ -359,10 +359,10 @@ h6,
     border-color: #1facde!important;
 }
 
-.btn-whatsapp {
+.btn-whatsapp-icon {
     position: fixed;
     width: 50px;
-    right: 60px;
-    bottom: 90px;
+    right: 40px;
+    bottom: 115px;
     z-index: 2147483647;
 }

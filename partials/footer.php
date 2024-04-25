@@ -1,6 +1,6 @@
 <!-- Icono de whatsapp -->
-<a href="https//wa.me/56983028442" target="_blank">
-    <img class="btn-whatsapp animate__animated animate__delay-3s animate__pulse animate__repeat-3" src="img/whatsapp.svg" alt="Escríbenos al whatsapp">
+<a href="https://wa.me/56983028442" target="_blank">
+    <img class="btn-whatsapp-icon" src="img/whatsapp.svg" alt="Escríbenos al whatsapp">
 </a>
 <footer>
         <!-- Footer Start -->
